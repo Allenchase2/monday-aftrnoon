@@ -1,6 +1,3 @@
 echo "good afternoon"
 sleep 3
 echo "this is monday after noon"
-sleep 3
-echo "bye every one"
-
